@@ -1,6 +1,0 @@
-Invoking command in '/home/module-dev/ros2_ws/build/talker_listener': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/module-dev/ros2_ws/src/talker_listener -DCMAKE_INSTALL_PREFIX=/home/module-dev/ros2_ws/install/talker_listener
-Invoked command in '/home/module-dev/ros2_ws/build/talker_listener' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/module-dev/ros2_ws/src/talker_listener -DCMAKE_INSTALL_PREFIX=/home/module-dev/ros2_ws/install/talker_listener
-Invoking command in '/home/module-dev/ros2_ws/build/talker_listener': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/module-dev/ros2_ws/build/talker_listener -- -j4 -l4
-Invoked command in '/home/module-dev/ros2_ws/build/talker_listener' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/module-dev/ros2_ws/build/talker_listener -- -j4 -l4
-Invoking command in '/home/module-dev/ros2_ws/build/talker_listener': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/module-dev/ros2_ws/build/talker_listener
-Invoked command in '/home/module-dev/ros2_ws/build/talker_listener' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/module-dev/ros2_ws/build/talker_listener

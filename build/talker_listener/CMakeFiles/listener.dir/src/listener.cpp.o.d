@@ -1,6 +1,5 @@
 CMakeFiles/listener.dir/src/listener.cpp.o: \
- /home/module-dev/ros2_ws/src/talker_listener/src/listener.cpp \
- /usr/include/stdc-predef.h \
+ /ros2_ws/src/talker_listener/src/listener.cpp /usr/include/stdc-predef.h \
  /opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp \
  /usr/include/c++/11/csignal \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
